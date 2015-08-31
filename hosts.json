@@ -1,0 +1,14 @@
+{
+    "ssh-hosts": {
+        "Sample1": {
+            "address": "12.34.56.78",
+            "port": 1234,
+            "username": "hideo54",
+            "cert-path": "/Users/hideo54/sample.key"
+        },
+        "Sample2": {
+            "address": "ssh.example.com",
+            "username": "test"
+        }
+    }
+}
