@@ -31,7 +31,7 @@ def connect(host):
         print usage
         sys.exit()
 
-    # Generate a ssh command
+    # Generate an ssh command
     if hostData.has_key('username'):
         command = ['ssh', hostData['username'] + '@' + hostData['address']]
     else:
