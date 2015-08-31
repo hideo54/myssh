@@ -1,6 +1,6 @@
 # myssh
 
-**If you want to read how to use in English, see README-en.md.**
+**If you want to read how to use in English, see [README-en.md](https://github.com/hideo54/myssh/blob/master/README-en.md).**
 
 ## 概要
 
